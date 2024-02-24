@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">AppFormulario</string>
     <string name="btnirregistro">Registrar Persona</string>
+    <string name="valnombres">Nombres</string>
+    <string name="tituloregistro">Registrar Persona</string>
+    <string name="valapellidos">Apellido</string>
+    <string name="valgenero">Genero</string>
+    <string name="valmasculino">Masculino</string>
+    <string name="valfemenino">Femenino</string>
+    <string name="valpreferencias">Seleccione sus Preferencias</string>
+    <string name="valdeporte">Deportes</string>
+    <string name="valmusica">Musica</string>
+    <string name="valestadocivil">Estado Civil</string>
+    <string name="valotros">Otras Preferencias</string>
+    <string name="valregistrarpersona">Registrar Persona</string>
+    <string name="vallistarpersonas">Listar Persona</string>
+    <string name="errornombreapellido">El nombre y apellido son obligatorios.</string>
+    <string name="errorgenero">Es obligatorio seleccionar su género.</string>
+    <string name="errorestadocivil">Es obligatorio seleccionar el estado civil.</string>
+    <string name="errorpreferencia">Debe seleccionar al menos una preferencia.</string>
+    <string name="mensajeregistro">Persona registrada correctamente.</string>
+    <string name="valtitulolistapersona">LISTA DE PERSONAS REGISTRADAS</string>
 </resources>

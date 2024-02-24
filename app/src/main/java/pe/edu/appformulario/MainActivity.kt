@@ -3,7 +3,6 @@ package pe.edu.appformulario
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.provider.Telephony.Mms.Intents
 import android.view.View
 import pe.edu.appformulario.databinding.ActivityMainBinding
 
